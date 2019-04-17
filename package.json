@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://wzr1337@github.com/wzr1337/rsi.schema.git"
+    "url": "git+https://Truring@github.com/Truring/rsi.schema.git"
   },
   "keywords": [
     "rsi",
@@ -32,7 +32,7 @@
   "author": "Dr. Patrick Bartsch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wzr1337/rsi.schema/issues"
+    "url": "https://github.com/Truring/rsi.schema/issues"
   },
-  "homepage": "https://github.com/wzr1337/rsi.schema#readme"
+  "homepage": "https://github.com/Truring/rsi.schema#readme"
 }
